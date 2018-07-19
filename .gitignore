@@ -101,3 +101,4 @@ ENV/
 .mypy_cache/
 flowers/
 vgg19_bn.mdl
+.idea
