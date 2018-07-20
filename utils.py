@@ -1,3 +1,6 @@
+# CREDIT https://code.activestate.com/recipes/577058-query-yesno/
+# LICENSE: MIT
+
 import sys
 
 
